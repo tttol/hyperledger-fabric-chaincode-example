@@ -1,0 +1,23 @@
+{
+  "name": "hyperledger-fabric-chaincode-example",
+  "version": "1.0.0",
+  "description": "Amazon Managed Blockchain上のHyperledger Fabricネットワークとやりとりするサンプル",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tttol/hyperledger-fabric-chaincode-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tttol/hyperledger-fabric-chaincode-example/issues"
+  },
+  "homepage": "https://github.com/tttol/hyperledger-fabric-chaincode-example#readme",
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "typescript": "^5.6.3"
+  }
+}
