@@ -1,0 +1,2 @@
+# hyperledger-fabric-chaincode-example
+Amazon Managed Blockchain上のHyperledger Fabricネットワークとやりとりするサンプル
