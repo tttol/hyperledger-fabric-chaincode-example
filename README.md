@@ -1,6 +1,12 @@
 # hyperledger-fabric-chaincode-example
 Amazon Managed Blockchain上のHyperledger Fabricネットワークとやりとりするサンプル
 
+# Get Started
+```bash
+tsc src/index.ts
+node src/index.js
+```
+
 # Init
 ```bash
 npm init
@@ -11,8 +17,3 @@ tsc src/index.ts
 node src/index.js
 ```
 
-# Get Started
-```bash
-tsc src/index.ts
-node src/index.js
-```
